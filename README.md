@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**n1ubi/n1ubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m interested in Python, C and Penetration testing (Ruby is also a cool language).
 
-Here are some ideas to get you started:
+# Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ubi&layout=compact&theme=chartreuse-dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n1ubishow_icons=true&theme=chartreuse-dark" />
+</p>
+
+<p> 
+  <h1 align="center">Visitor count since 2021<br>
+  <img src="https://profile-counter.glitch.me/n1ubi/count.svg" />
+    </h1>
+</p>
