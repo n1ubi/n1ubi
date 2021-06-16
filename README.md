@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1ubishow_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n1ubi/show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p> 
