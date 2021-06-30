@@ -1,5 +1,5 @@
 
-- I’m interested in Python, C and Penetration testing (Ruby is also a cool language).
+- I’m interested in Python, C and Penetration testing, Reverse-Engineering and Assembly. 
 
 # Stats
 <p align="center">
